@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "64947914705",
+    "firebase_url": "https://reno-d0586.firebaseio.com",
+    "project_id": "reno-d0586",
+    "storage_bucket": "reno-d0586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64947914705:android:9762b7cde229cdd3",
+        "android_client_info": {
+          "package_name": "com.example.reno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64947914705-r5tlvfgtsmt9tgglf5um13fepknoovaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reno",
+            "certificate_hash": "3b10106607da283ca46c68bbac0b9f881fef8754"
+          }
+        },
+        {
+          "client_id": "64947914705-r1duh2rjqtt9qf7gkcgk3n8dctujjkju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reno",
+            "certificate_hash": "aa9d64d57ee4f5dc940ce7e868cdb5f7c1aa28c7"
+          }
+        },
+        {
+          "client_id": "64947914705-flnqo1oc8s4if0j4f1gom1h2cgoi4mqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAX2x3tg-exOPWStuE7ZSpo3a4HiaXfYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64947914705-flnqo1oc8s4if0j4f1gom1h2cgoi4mqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
